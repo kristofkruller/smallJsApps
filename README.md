@@ -6,4 +6,5 @@ It has a dinamic search function it can use it for every letter to give a value-
 Minimal design with normal file.css solution. 
 Communication with Local Storage, so you can also refresh without loosing data. 
 
-- tempDatabaseApp: I made this to practice the better understanding of API communication. I used a temp. table of NASA to make a nice graph with 
+- tempDatabaseApp: I made this to practice the better understanding of API communication. I used a temp. table of NASA to make a nice graph with Chart.js CDN.
+No JSON here tho only simple data fetch async-await structure with manipulating arrays split slice forEach.  
